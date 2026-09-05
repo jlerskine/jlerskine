@@ -1,4 +1,4 @@
-<h1>Hi, I'm J.L. Erskine! <br/> <a href="https://www.linkedin.com/in/jlerskine/">Cybersecurity/IT Professional</a>, <a href="https://github.com/jlerskine">Programmer</a>,<a href="https://www.youtube.com/c/jlerskine">YouTuber</a></h1>
+<h1>Hi, I'm J.L. Erskine! <br/> <a href="https://www.linkedin.com/in/jlerskine/">Cybersecurity/IT Professional</a></h1>
 
 <h2> Cybersecurity Projects:</h2>
 
@@ -18,10 +18,6 @@
   
 - <b>Python</b>
  
-
-<h2>📺 Popular YouTube Videos</h2>
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="jlerskine | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
